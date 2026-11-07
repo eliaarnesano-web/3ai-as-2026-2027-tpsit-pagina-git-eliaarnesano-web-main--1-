@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "3ai-as-2026-2027"
+assignment: "tpsit-pagina-git"
+owner:
+  username: "eliaarnesano-web"
+  id: 334916856
+  accepted_at: "2026-10-19T08:41:47Z"
+source:
+  owner: "Classi-di-Mauro-Longano"
+  owner_id: 145975987
+  repo: "3ai-tpsit-pagina-git-template"
+  branch: "main"
